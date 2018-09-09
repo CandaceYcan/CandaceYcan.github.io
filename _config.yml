@@ -12,7 +12,7 @@ github_repo: "https://github.com/CandaceYcan/CandaceYcan.github.io" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Better late than never!"
-sidebar-avatar: /img/about-Candace.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/About-Candace.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
