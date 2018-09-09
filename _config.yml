@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·易渔",
+        title: "豆瓣·易渔",
         href: "https://www.douban.com/people/somewise/"
     },{
         title: "简书·易渔",
