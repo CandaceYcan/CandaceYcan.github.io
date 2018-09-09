@@ -1,10 +1,10 @@
 # Site settings
-title: Candace's Blog
-SEOTitle: 易渔的博客 | Candace's Blog
+title: Candace Y.'s Blog
+SEOTitle: 易渔的博客 | Candace Y.'s Blog
 header-img: img/post-bg-desk.jpg
 email: yyx0015@gmail.com
 description: "Every failure is leading towards success."
-keyword: "易渔, Candace's Blog, 易渔的博客, Candace Y., 译者, 翻译, Chinese Translator, Translation"
+keyword: "易渔, Candace Y.'s Blog, 易渔的博客, Candace Y., 译者, 翻译, Chinese Translator, Translation"
 url: "https://candaceycan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CandaceYcan/CandaceYcan.github.io" # you code repository
@@ -55,7 +55,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
