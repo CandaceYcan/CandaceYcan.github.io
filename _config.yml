@@ -57,9 +57,12 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: 
 
+#intensedebate修改成你自己的
+intensedebate_identifier: LUPjLGwb9ENkf9eVO0yl
+
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: e8f27f83cc424e35fdd3                            #生成的clientID
   clientSecret: f1dee785536ee5feb35b2bd05f341dd526949a4f    #生成的clientSecret
   repo: CandaceYcan.github.io    #仓库名称
