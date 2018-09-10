@@ -69,7 +69,7 @@ intensedebate:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: e8f27f83cc424e35fdd3                            #生成的clientID
   clientSecret: f1dee785536ee5feb35b2bd05f341dd526949a4f    #生成的clientSecret
   repo: CandaceYcan.github.io    #仓库名称
@@ -135,12 +135,12 @@ links1:
     type:         translations
     external:     false
   - name:         Learning records
-    url:          /blog/learning records
-    type:         learning records
+    url:          /blog/learningrecords
+    type:         learningrecords
     external:     false
   - name:         Notes on translations
-    url:          /blog/notes on translations
-    type:         notes on translations
+    url:          /blog/notesontranslations
+    type:         notesontranslations
     external:     false
   - name:         Novel
     url:          /blog/novel
@@ -158,8 +158,8 @@ links1:
 blog_1:    recent
 blog_2:    diaries
 blog_3:    translations
-blog_4:    learning records
-blog_5:    notes on translations
+blog_4:    learningrecords
+blog_5:    notesontranslations
 blog_6:    novel
 blog_7:    other
 blog_8:    
