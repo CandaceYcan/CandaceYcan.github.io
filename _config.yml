@@ -114,3 +114,60 @@ friends: [
         href: "https://www.jianshu.com/u/3e3589c59c3f"
     }
 ]
+
+#添加分类步骤：
+#1：在_config.yml links1及blog_中添加对应内容
+#2：在_includes里面headr.html中添加对应内容
+#3：在根目录blog文件中创建对应内容
+
+
+links1:
+  - name:         所有
+    url:          /
+    type:         recent
+    external:     false
+  - name:         日记
+    url:          /blog/diaries
+    type:         diaries
+    external:     false
+  - name:         Translations
+    url:          /blog/translations
+    type:         translations
+    external:     false
+  - name:         Learning records
+    url:          /blog/learning records
+    type:         learning records
+    external:     false
+  - name:         Notes on translations
+    url:          /blog/notes on translations
+    type:         notes on translations
+    external:     false
+  - name:         Novel
+    url:          /blog/novel
+    type:         novel
+    external:     false
+  - name:         Other
+    url:          /blog/other
+    type:         other
+    external:     false
+  - name:        
+    url:          
+    type:         
+    external:     
+  
+blog_1:    recent
+blog_2:    diaries
+blog_3:    translations
+blog_4:    learning records
+blog_5:    notes on translations
+blog_6:    novel
+blog_7:    other
+blog_8:    
+blog_9:    
+blog_10:   
+blog_11:   
+blog_12:   
+blog_13:
+blog_14:
+blog_15:
+blog_16:
