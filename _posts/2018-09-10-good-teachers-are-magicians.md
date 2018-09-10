@@ -7,7 +7,8 @@ author:     Candace Y.
 header-img: 
 catalog: true
 tags:
-    - Blog, diaries
+    - Blog
+    - diaries
 ---
 
 to be continued
