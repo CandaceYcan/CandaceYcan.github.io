@@ -58,7 +58,14 @@ kramdown:
 # disqus_username: 
 
 #intensedebate修改成你自己的
-intensedebate_identifier: LUPjLGwb9ENkf9eVO0yl
+
+intensedebate:
+  enable: true    #是否开启
+  intensedebate_identifier: LUPjLGwb9ENkf9eVO0yl
+  repo: CandaceYcan.github.io    #仓库名称
+  owner: CandaceYcan    #github用户名
+  admin: CandaceYcan
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Gitalk
 gitalk:
