@@ -11,13 +11,13 @@ github_repo: "https://github.com/CandaceYcan/CandaceYcan.github.io" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一枚奋进的翻译|信条：Better late than never!"
+sidebar-about-description: "一枚奋进的翻译 | 信条：Better late than never!"
 sidebar-avatar: /img/About-Candace.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
+RSS: true
 # github_username:    CandaceYcan
 jianshu_username:   3e3589c59c3f
 douban_username:   somewise
@@ -58,7 +58,6 @@ kramdown:
 # disqus_username: 
 
 #intensedebate修改成你自己的
-
 intensedebate:
   enable: true    #是否开启
   intensedebate_identifier: LUPjLGwb9ENkf9eVO0yl
