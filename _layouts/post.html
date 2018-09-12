@@ -63,6 +63,17 @@ layout: default
 
                 <hr style="visibility: hidden;">
 
+          <div class="page-share">
+            <span>Share:</span>
+            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+          </div><!-- End Share -->
+		  
+		  {% include new-old.html %}
+        </div>
+		
+		
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -107,6 +118,11 @@ layout: default
                 {% endif %}
                 <!-- Gitalk end -->
 
+		{% include disqus.html %}
+		{% include newsletter.html %}
+		{% include recent-post.html %}
+       
+		
                 {% if site.disqus_username %}
                 <!-- disqus 评论框 start -->
                 <div class="comment">
