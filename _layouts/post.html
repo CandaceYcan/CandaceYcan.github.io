@@ -62,22 +62,20 @@ layout: default
 				{{ content }}
 
                 <hr style="visibility: hidden;">
-
+	    	
           <div class="page-share">
             <span>Share:</span>
             <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
             <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
             <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
-	    <div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a></div>
-<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":["mshare","weixin","sqq","tsina","douban","renren","qzone","bdysc","tieba","tqq","bdxc","kaixin001","tqf","bdhome","twi","linkedin","fbook","ibaidu","mail","diandian","thx","meilishuo","huaban","mogujie","youdao","ty","qingbiji","xinhua","people","evernotecn","duitang","hx","copy","iguba","print","wealink","sdo","fx","h163","isohu","yaolan"],"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["tsina","weixin","qzone","tqq","renren"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["tsina","weixin","qzone","tqq","renren"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
-		  
+			
           </div><!-- End Share -->
 		  
-		  {% include new-old.html %}
+		
+	        </div>
+		         {% include new-old.html %}
+                </div>
 		    
-        </div>
-		
-		
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -131,11 +129,7 @@ layout: default
                 </div>
                 <!-- disqus 评论框 end -->
                 {% endif %}
-
-            </div>  
-
-	        {% include recent-post.html %}
-	    
+           
 	    </div> 
 	    
     <!-- Side Catalog Container -->
