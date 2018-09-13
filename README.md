@@ -4,7 +4,7 @@
 
 02 主要框架代码来自forked上述博主的[github项目](https://github.com/qiubaiying/qiubaiying.github.io)
 
-03 "访问量"功能的代码来自[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)，另外也引用了他的“文件夹分类”功能，但本人目前还没有放多少文章到博客，这个功能暂时还显示不出来。
+03 "访问量"、“分享”、“打赏”功能的代码来自[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)，另外也引用了他的“文件夹分类”功能，但本人目前还没有放多少文章到博客，这个功能暂时还显示不出来。
 
 04 另外也参考了github上的以下库及相关博主的文章：
 1) [dailc.github.io](https://github.com/dailc/dailc.github.io)
