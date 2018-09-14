@@ -8,7 +8,7 @@
 
 03 "访问量"、“分享”、“打赏”、"intensedebate评论"功能的代码来自[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)，另外也引用了他的“文件夹分类”功能，但本人目前还没有放多少文章到博客，这个功能暂时还显示不出来。添加这些功能依据的是他的详细指南：[Github+Jekyll 搭建个人网站详细教程](https://leach-chen.github.io/jekyll-github-blog/)。
 
-04 另外也参考了github上的以下库及相关博主的文章，但截至2018-09-14日，本人网站用到的代码都直接来自[qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)和[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)：
+04 另外也参考了github上的以下库及相关博主的文章，但截至2018-09-14日，本人博客用到的代码都直接来自[qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)和[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)：
 
    参考了：
 1) [dailc.github.io](https://github.com/dailc/dailc.github.io)
