@@ -58,8 +58,7 @@ kramdown:
 # disqus_username: CandaceYcan 
 
 #intensedebate修改成你自己的
-intensedebate:
-  intensedebate_identifier: LUPjLGwb9ENkf9eVO0yl
+intensedebate_identifier: LUPjLGwb9ENkf9eVO0yl
  
 
 # Gitalk
