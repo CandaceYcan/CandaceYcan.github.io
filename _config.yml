@@ -3,7 +3,7 @@ title: Candace Y.'s Blog
 SEOTitle: 易渔的博客|Candace Y.'s Blog|中英翻译|中英笔译|翻译|学术翻译|商务翻译|论文翻译|文学翻译|中英互译|Experienced Chinese Translator
 header-img: img/post-bg-desk.jpg
 email: yyx0015@gmail.com
-description: "Every failure is leading towards success."
+description: "Better late than never!"
 keyword: "易渔, Candace Y.'s Blog, 易渔的博客, Candace Y., 译者, 翻译, Chinese Translator, Translation"
 url: "https://candaceycan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/CandaceYcan/CandaceYcan.github.io" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一枚奋进的翻译 | 信条：Better late than never!"
+sidebar-about-description: "一枚奋进的翻译"
 sidebar-avatar: /img/About-Candace.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
