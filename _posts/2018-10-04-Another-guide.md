@@ -3,25 +3,26 @@ layout:     post
 title:      小白教程：Github+私人域名搭建个人博客 
 subtitle:   Another Guide to This Blog
 date:       2018-10-04
-author:     易渔/Candace Y.
+author:     易渔 Candace Y.
 header-img: 
 catalog: true
 tags:
     - Blog
-    - 指南/guide
+    - 指南 guide
     
 ---
 
-##重要
+
+## 重要
 请把本文和本文中提到的文章全部看完一遍后再动手操作。
 
-##前言
+## 前言
 本人是个不懂代码、略懂英语的文科生。凭着浅薄的英语知识辨读了几个代码库，然后依据前人的模板捣鼓出了现在的博客：[易渔爱翻译](https://ifanyi.xyz/)。尤其请看一下这个[本站指南](https://ifanyi.xyz/2018/09/18/A-guide/)，里面有介绍了网站的一些功能和来历。如果你觉得这个博客还不错，请继续往下翻。
 
 噢，还有一点要说一下：我搭建博客的过程中完全没有用到github的桌面版，也没有安装ruby之类的（虽然调查过、研究过安装方法），因为我的电脑既老旧又低端，没法安装这些东东。也就是说，我全部都是在github的网页上操作的。这样就免去了学习ruby或git的代码语言这样的麻烦了，只是效率有点低，因为有服务器延时之类的问题。
 
 
-##整体步骤概括一下就是：
+## 整体步骤概括一下就是：
 1.在github.com上注册，然后创建一个新的repository。**~完成注册后~~，~~登录进去~~，~~找到~~create~ ~new~ ~repository~~，~~点击~~，~~然后根据提示来就行了~~。~**
 
 2.看教程，一步步操作。[教程见这里提到的文章，全部看完后再操作](https://github.com/CandaceYcan/CandaceYcan.github.io/blob/master/README.md)。~教程里面也有提到自购域名然后解析，这些先不用管。没有自己的域名的话，就先用github的域名，这种域名的格式是[你的域名.github.io]，比如我的github域名是CandaceYcan.github.io，在没买自己的独立域名时，我就先用的这个打造网站的。~
@@ -30,7 +31,7 @@ tags:
 
 4.解析域名。成功完成这一步后，就能通过你自己的域名来访问第一二步创建的域名为username.github.io的个人网站了。 
 
-#####我的解析方法：
+##### 我的解析方法：
 1.在Github上的名称为username.github.io的这个库中找到CNAME文件（没有的话就创建一个），在里面输入你买的个人域名，注意不带http或者www哦，你买的时候是什么就是什么，比如你买的是aaaab.abc，那么这个文件里就输入aaaab.abc，不加http或www。
 
 2. 在**namesilo**中，点击[Manage My Domains](https://www.namesilo.com/account_domains.php)，找到你要用的域名，在右侧找蓝色小球的图标，鼠标放在上面会提示“**Manage DNS for this domain**”，点击它，在出现的页面找**DNS Templates**（如下图），下面有很多主流空间的解析模板，找到Github，点击后面的Apply Template，会弹出一个窗口，告诉你DNS的变动，点确定(Add)。
@@ -51,7 +52,7 @@ tags:
 
 （可惜的是，配置新域名后，网站上显示的访问量似乎会清零，作为码盲，我还不知道怎么解决这个问题~）
 
-######其他参考：
+###### 其他参考：
 [Namesilo常见问题大全 - 简书](https://www.jianshu.com/p/a145c2681d7a)
 [英文建站必备：Namesilo 购买注册流程 - weed8 - 博客园](https://www.cnblogs.com/weed8/p/7207582.html)
 [NameSilo域名购买与购买优惠券 - flyzy2005的博客 - CSDN博客](https://blog.csdn.net/wf632856695/article/details/79433206)
@@ -60,5 +61,6 @@ tags:
 
 
 ### 如果觉得本文对你有任何帮助，欢迎到我的[Github](https://github.com/CandaceYcan/CandaceYcan.github.io)给我的项目点一个star～谢谢
+
 
 本文首发于[简书](https://www.jianshu.com/p/5487d39a1cb2)
