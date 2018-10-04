@@ -23,9 +23,9 @@ tags:
 
 
 ## 整体步骤概括一下就是：
-1.在github.com上注册，然后创建一个新的repository。**~完成注册后~~，~~登录进去~~，~~找到~~create~ ~new~ ~repository~~，~~点击~~，~~然后根据提示来就行了~~。~**
+1.**在github.com上注册，然后创建一个新的repository。**完成注册后，登录进去，找到create new repository，点击，然后根据提示来就行了。
 
-2.看教程，一步步操作。[教程见这里提到的文章，全部看完后再操作](https://github.com/CandaceYcan/CandaceYcan.github.io/blob/master/README.md)。~教程里面也有提到自购域名然后解析，这些先不用管。没有自己的域名的话，就先用github的域名，这种域名的格式是[你的域名.github.io]，比如我的github域名是CandaceYcan.github.io，在没买自己的独立域名时，我就先用的这个打造网站的。~
+2.看教程，一步步操作。[教程见这里提到的文章，全部看完后再操作](https://github.com/CandaceYcan/CandaceYcan.github.io/blob/master/README.md)。教程里面也有提到自购域名然后解析，这些先不用管。没有自己的域名的话，就先用github的域名，这种域名的格式是[你的域名.github.io]，比如我的github域名是CandaceYcan.github.io，在没买自己的独立域名时，我就先用的这个打造网站的。
 
 3.看完各种教程，建出了自己的网站后，回望一下走过的直路或弯路，如果确定要在个人网站这条路上继续走下去，而且对独立域名很执著，那么可以**去买自己的域名了**。至于在哪儿买，我最初关注的是阿里云，因为看前面的教程时发现有人买得挺便宜。问题是，在这里买得实名、得备案，感觉好麻烦啊。查找了解了一番后发现，可以在国外的域名注册商那里买域名，这样就不用实名、备案之类的了。很巧的是，看到有人推荐**[namesilo](namesilo.com)**，它支持支付宝支付，这点相当方便。也有人分享注册流程和优惠码，凭优惠码可以省1美元。
 
@@ -54,9 +54,13 @@ tags:
 
 ###### 其他参考：
 [Namesilo常见问题大全 - 简书](https://www.jianshu.com/p/a145c2681d7a)
+
 [英文建站必备：Namesilo 购买注册流程 - weed8 - 博客园](https://www.cnblogs.com/weed8/p/7207582.html)
+
 [NameSilo域名购买与购买优惠券 - flyzy2005的博客 - CSDN博客](https://blog.csdn.net/wf632856695/article/details/79433206)
+
 [github怎么绑定自己的域名？ - 知乎](https://www.zhihu.com/question/31377141/answer/103056861)
+
 [教大家注册自己的域名并使用-为了自己的包名！ - 简书](https://www.jianshu.com/p/5dbad365dc71)
 
 
