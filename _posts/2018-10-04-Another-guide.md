@@ -49,6 +49,8 @@ tags:
 
 哈哈哈，说了太多**反正**。
 
+（可惜的是，配置新域名后，网站上显示的访问量似乎会清零，作为码盲，我还不知道怎么解决这个问题~）
+
 ######其他参考：
 [Namesilo常见问题大全 - 简书](https://www.jianshu.com/p/a145c2681d7a)
 [英文建站必备：Namesilo 购买注册流程 - weed8 - 博客园](https://www.cnblogs.com/weed8/p/7207582.html)
