@@ -1,4 +1,4 @@
-我的博客：https://candaceycan.github.io/ 
+我的博客：https://candaceycan.github.io/ 会跳转到https://ifanyi.xyz/ 并不是出错哦
 
 ## 说明 
 ### 博客的搭建依据了：
