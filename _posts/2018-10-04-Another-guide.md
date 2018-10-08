@@ -31,6 +31,7 @@ tags:
 教程里面也有提到自购域名然后解析，这些先不用管。没有自己的域名的话，就先用github的域名，这种域名的格式是[你的域名.github.io]，比如我的github域名是CandaceYcan.github.io，在没买自己的独立域名时，我就先用的这个打造网站的。等你买了独立域名，到时可以再绑定买到的域名，现在没有个人域名也不影响建站。
 
 **教程一**：[利用 GitHub Pages 快速搭建个人博客 - 简书](https://www.jianshu.com/p/e68fba58f75c)
+
 **教程二**：[Github+Jekyll 搭建个人网站详细教程 - Blog - Leach Chen](https://leach-chen.github.io/jekyll-github-blog/)
 
 上面两个教程建成的网站风格截然不同，建议先把两个教程都看一遍，决定一下你喜欢哪个网站的风格（比如**文字为主、图片为主、搜索功能、文件夹分类、标签分类**等），然后再去github上fork相应的代码、一点点打造成自己需要的样子。
@@ -49,6 +50,7 @@ tags:
 
 关于namesilo的拓展阅读：
 [Namesilo常见问题大全 - 简书](https://www.jianshu.com/p/a145c2681d7a)
+
 [英文建站必备：Namesilo 购买注册流程 - weed8 - 博客园](https://www.cnblogs.com/weed8/p/7207582.html)
 
 
@@ -79,6 +81,7 @@ tags:
 
 ###### 其他参考：
 [github怎么绑定自己的域名？ - 知乎](https://www.zhihu.com/question/31377141/answer/103056861)
+
 [教大家注册自己的域名并使用-为了自己的包名！ - 简书](https://www.jianshu.com/p/5dbad365dc71)
 
 
