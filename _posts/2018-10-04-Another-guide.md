@@ -12,6 +12,7 @@ tags:
     
 ---
 
+本文较完善的版本在[豆瓣](https://www.douban.com/note/692500485/)和[简书](https://www.jianshu.com/p/5487d39a1cb2)。
 
 ## 重要
 请把本文和本文中提到的文章全部看完一遍或多遍后再动手操作。
