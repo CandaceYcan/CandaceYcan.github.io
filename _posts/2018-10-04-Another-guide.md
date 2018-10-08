@@ -83,7 +83,7 @@ tags:
 
 
 
-### 如果觉得本文对你有任何帮助，欢迎到我的[Github](https://github.com/CandaceYcan/CandaceYcan.github.io)给我的项目点一个star～谢谢
+### 如果觉得本文对你有任何帮助，欢迎到Github给[我的Github项目，亦即我的网站的代码库](https://github.com/CandaceYcan/CandaceYcan.github.io)点一个star或fork～谢谢
 
 
 本文首发于[简书](https://www.jianshu.com/p/5487d39a1cb2)
