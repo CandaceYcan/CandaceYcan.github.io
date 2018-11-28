@@ -14,6 +14,7 @@ tags:
 
 **如题，美国大学的院系与职称术语，以约翰斯·霍普金斯大学医学院 (Johns Hopkins University School of Medicine) 为例。**
 
+## 专有名词
 专有名词太多，先列一下关键词好了（**表1**）：
 
 No.|Eng|中文|缩写
@@ -26,12 +27,13 @@ No.|Eng|中文|缩写
 
 `JHM, JHU, SOM的域名很神奇，JHU大学医学院的域名不是用大学的次级域名，而是用JHM公司的次级域名，医学院分明是大学的一部分呢（虽然都在JH这把大伞下面）。。。`
 
->![JHM的冰山一角.png](https://upload-images.jianshu.io/upload_images/1343920-f8a00b7303b248ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-**JHM**是美国的一家价值80亿美元的全球性医疗企业 *（它实力的冰山一角见上图）*，总部在美国马里兰州北部城市巴尔的摩。**JHM**的CEO [**Paul B. Rothman (M.D.)**](https://www.hopkinsmedicine.org/about/leadership/biography/paul-rothman) 同时担任约翰斯·霍普金斯**大学 (JHU)** 的医学院的院长 (Dean)。
+**JHM**是美国的一家价值80亿美元的全球性医疗企业 *（它实力的冰山一角见下下图）*，总部在美国马里兰州北部城市巴尔的摩。**JHM**的CEO [**Paul B. Rothman (M.D.)**](https://www.hopkinsmedicine.org/about/leadership/biography/paul-rothman) 同时担任约翰斯·霍普金斯**大学 (JHU)** 的医学院的院长 (Dean)。
 > ![Dean.png](https://upload-images.jianshu.io/upload_images/1343920-f3aa465a2bbc7b90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-**医学院有9位掌管不同工作的副院长 (vice dean)**，分别是（**表2**）:
+>![JHM的冰山一角.png](https://upload-images.jianshu.io/upload_images/1343920-f8a00b7303b248ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## JHU的SOM医学院有9位掌管不同工作的副院长 (vice dean)，分别是（表2）:
 
 No.|Eng|中文
 ----|------|---
@@ -47,7 +49,7 @@ No.|Eng|中文
 
 >![vice deans.png](https://upload-images.jianshu.io/upload_images/1343920-5dc44f9701439fba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+## 美国大学里的dean
 
 说到[JHU医学院的领导班子](https://www.hopkinsmedicine.org/about/governance/deans.html)，dean的种类还真多：正儿八经的老大是Dean，除此之外还有9位 vice deans，10多位 associate deans, 10多位 assistant deans。
 
@@ -59,12 +61,14 @@ No.|Eng|中文
 另一条关于美国的[学术等级](https://en.wikipedia.org/wiki/Academic_ranks_in_the_United_States)的维基词条也提到了dean：
 >Deans may head an individual college, school or faculty; or they may be deans of the student body, or a section of it (e.g., the dean of students in a law school); or they may be deans of a particular functional unit (e.g., Dean of Admissions, or Dean of Records); or they may be deans of a particular campus, or (unusually) of a particular building (e.g., a university with an elaborate performing arts complex might designate a very senior administrative faculty member as "Dean of the [Name] Performing Arts Center"...Academic department heads and chairs serve the same function, and there may also be associate and assistant department heads or chairs (though this is unusual). In medical schools, departments may be divided into sections or divisions by subspecialty, each with its own section chief or division chief. 
 
+## Dean的意义
 也就是说，在美国高等教育体系里：
 1. Dean 可能指一个单独院/系的头儿、负责学生群体的头儿、某个职能单位的头儿（比如招生主任）、某个校区的头儿、某个建筑的头儿等等……
 2. 大学里院/系的头儿也可以用head和chair表示，职能是相同的；
 3. 院/系里也可能有associate department heads/chairs 和 assistant department heads/chairs，但是很少见。
 4. 在医学院，院/系 (department)还可能根据专业被划分成不同的次级学部（叫做 section 或 division），这样的学部又会有自己的头儿。比如JHU的妇产科系 (Department of Gynecology and Obstetrics)下面又有教育学部 (Division of Education)。
 
+## Associate Dean级别比Assistant Dean高
 根据[这篇文章](http://www.heitmanagement.com/blog/2013/03/what-is-a-provost-an-introduction-to-administrative-and-academic-ranks/)的观点，Assistant/Associate Dean是Dean的副手，是下级，而且Associate Dean级别比Assistant Dean高。
 
 根据JHU[彭博公共卫生学院的副级领导班子](https://www.jhsph.edu/about/school-at-a-glance/associate-deans/index.html)和[JHU医学院的领导班子](https://www.hopkinsmedicine.org/about/governance/deans.html)来看，等级排行似乎是这样的Dean > Executive Vice Dean > Vice Dean > Senior Associate Dean > Associate Dean > Assistant Dean。
