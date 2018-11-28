@@ -68,7 +68,7 @@ No.|Eng|中文
 3. 院/系里也可能有associate department heads/chairs 和 assistant department heads/chairs，但是很少见。
 4. 在医学院，院/系 (department)还可能根据专业被划分成不同的次级学部（叫做 section 或 division），这样的学部又会有自己的头儿。比如JHU的妇产科系 (Department of Gynecology and Obstetrics)下面又有教育学部 (Division of Education)。
 
-## Associate Dean级别比Assistant Dean高
+## Associate Dean级别高于Assistant Dean
 根据[这篇文章](http://www.heitmanagement.com/blog/2013/03/what-is-a-provost-an-introduction-to-administrative-and-academic-ranks/)的观点，Assistant/Associate Dean是Dean的副手，是下级，而且Associate Dean级别比Assistant Dean高。
 
 根据JHU[彭博公共卫生学院的副级领导班子](https://www.jhsph.edu/about/school-at-a-glance/associate-deans/index.html)和[JHU医学院的领导班子](https://www.hopkinsmedicine.org/about/governance/deans.html)来看，等级排行似乎是这样的Dean > Executive Vice Dean > Vice Dean > Senior Associate Dean > Associate Dean > Assistant Dean。
