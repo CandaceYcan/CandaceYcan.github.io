@@ -7,7 +7,7 @@ author:     易渔
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - 翻译相关 Translation-related
+    - Translation-related 翻译相关 
 ---
 
 本文首发于[简书](https://www.jianshu.com/p/aff9f9e6ef41)，那里的排版大概更好。
