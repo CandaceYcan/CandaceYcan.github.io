@@ -7,8 +7,7 @@ author:     易渔 Candace Y.
 header-img: 
 catalog: true
 tags:
-    - Blog
-    - 指南 guide
+    - Guide 指南     
     
 ---
 
