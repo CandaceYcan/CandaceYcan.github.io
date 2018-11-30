@@ -6,7 +6,10 @@
 
 02 主要框架代码来自forked上述博主的[github项目](https://github.com/qiubaiying/qiubaiying.github.io)
 
-03 "访问量"、“分享”、“打赏”、"intensedebate评论"功能的代码来自[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)，另外也引用了他的“文件夹分类”功能，但本人目前还没有放多少文章到博客，这个功能暂时还显示不出来。添加这些功能依据的是他的详细指南：[Github+Jekyll 搭建个人网站详细教程](https://leach-chen.github.io/jekyll-github-blog/)。另外，配置新域名后，网站上显示的访问量似乎会清零。（又发现2018年10月份大概中旬开始网站“访问量”、文章“访问次数”都不能正常显示，调试太麻烦，等将来略懂些代码了再来完善吧~）
+03 “分享”、“打赏”、"intensedebate评论"功能的代码来自[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)，虽然只有“评论”功能配置得比较成功~
+另外也引用了他的“文件夹分类”功能，但本人目前还没有放多少文章到博客，这个功能暂时还显示不出来。
+添加这些功能依据的是他的详细指南：[Github+Jekyll 搭建个人网站详细教程](https://leach-chen.github.io/jekyll-github-blog/)。
+
 
 04 另外也参考了github上的以下库及相关博主的文章，但截至2018-09-14日，本人博客用到的代码都直接来自[qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)和[leach-chen.github.io](https://github.com/leach-chen/leach-chen.github.io)：
 
