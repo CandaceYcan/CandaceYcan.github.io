@@ -1,10 +1,10 @@
 # Site settings
-title: 易渔爱翻译
-SEOTitle: 易渔爱翻译|易渔的博客|Candace Y.'s Blog|笔译|翻译|中英|学术|商务|论文|文学|Experienced-Chinese-Translator
+title: Translator易渔的翻译博客
+SEOTitle: 翻译博客|English-to-Chinese-Translator|笔译|翻译|中英翻译|英中翻译|Chinese-Translator|Translator易渔
 header-img: img/post-bg-desk.jpg
 email: yyx0015@gmail.com
-description: "Translation|翻译|踏实|认真|守时|保证质量|努力靠谱|让经验丰富起来！"
-keyword: "易渔, Candace Y.'s Blog, 博客, Candace Y., 译者, 翻译, Chinese Translator, Translation"
+description: "A translation related blog|翻译啊翻译|！"
+keyword: "Translator易渔, 翻译博客, 译者, Chinese Translator, Translation"
 url: "https://candaceycan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CandaceYcan/CandaceYcan.github.io" # you code repository
@@ -63,12 +63,12 @@ intensedebate_identifier: 797e6926f0b277c7a215c2ff397bfe2c
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: e8f27f83cc424e35fdd3                            #生成的clientID
-  clientSecret: f1dee785536ee5feb35b2bd05f341dd526949a4f    #生成的clientSecret
-  repo: CandaceYcan.github.io    #仓库名称
-  owner: CandaceYcan    #github用户名
-  admin: CandaceYcan
+  enable: false    #是否开启Gitalk评论
+  clientID:                             #生成的clientID
+  clientSecret:     #生成的clientSecret
+  repo:     #仓库名称
+  owner:     #github用户名
+  admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -109,59 +109,6 @@ friends: [
     }
 ]
 
-#添加分类步骤：
-#1：在_config.yml links1及blog_中添加对应内容
-#2：在_includes里面header.html中添加对应内容
-#3：在根目录blog文件中创建对应内容
 
 
-links1:
-  - name:         所有
-    url:          /
-    type:         recent
-    external:     false
-  - name:         日记
-    url:          /blog/diaries
-    type:         diaries
-    external:     false
-  - name:         Translations
-    url:          /blog/translations
-    type:         translations
-    external:     false
-  - name:         Learning records
-    url:          /blog/learningrecords
-    type:         learningrecords
-    external:     false
-  - name:         Notes on translations
-    url:          /blog/notesontranslations
-    type:         notesontranslations
-    external:     false
-  - name:         Novel
-    url:          /blog/novel
-    type:         novel
-    external:     false
-  - name:         Other
-    url:          /blog/other
-    type:         other
-    external:     false
-  - name:        
-    url:          
-    type:         
-    external:     
-  
-blog_1:    recent
-blog_2:    diaries
-blog_3:    translations
-blog_4:    learningrecords
-blog_5:    notesontranslations
-blog_6:    novel
-blog_7:    other
-blog_8:    
-blog_9:    
-blog_10:   
-blog_11:   
-blog_12:   
-blog_13:
-blog_14:
-blog_15:
-blog_16:
+
